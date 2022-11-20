@@ -28,14 +28,14 @@
 
   .btn1 {
     position: absolute;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 63px;
     border-radius: 50%;
     /*padding: 30px 30px;
     border-radius: 46%;*/
     border: 1px solid tomato;
-    top: 535px;
-    left: 399px;
+    top: 520px;
+    left: 392px;
     outline: none;
     background-image: url(/img/pu_pu.jpg);
   }
